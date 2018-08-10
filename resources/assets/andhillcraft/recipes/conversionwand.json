@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  #",
+        " D ",
+        "/  "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:redstone"
+        },
+        "D": {
+            "item": "andhillcraft:reddiamond"
+        },
+        "/": {
+            "item": "minecraft:stick"
+        }
+    },
+    "result": {
+        "item": "andhillcraft:conversionwand",
+        "count": 1
+    }
+}

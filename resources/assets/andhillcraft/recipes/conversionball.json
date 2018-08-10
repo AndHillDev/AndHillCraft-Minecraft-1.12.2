@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "gEg",
+        "EDE",
+        "gEg"
+    ],
+    "key": {
+        "g": {
+            "item": "minecraft:gold_ingot"
+        },
+        "E": {
+            "item": "andhillcraft:reddiamond"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "andhillcraft:conversionball",
+        "count": 1
+    }
+}

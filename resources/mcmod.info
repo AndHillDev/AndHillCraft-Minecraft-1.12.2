@@ -1,0 +1,16 @@
+[
+{
+  "modid": "andhillcraft",
+  "name": "AndHillCraft",
+  "description": "Conversion Mod, Spawning Factory and some more stuff in one mod",
+  "version": "1.0.0-Alpha",
+  "mcversion": "1.12.2",
+  "url": "https://www.andhilldev.de",
+  "updateUrl": "https://www.andhilldev.de",
+  "authorList": ["AndHillDev"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
