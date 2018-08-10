@@ -1,17 +1,20 @@
 {
     "type": "minecraft:crafting_shaped",
     "pattern": [
-        "iii",
-        "iii",
-        "iii"
+        "R",
+        "S",
+        "S"
     ],
     "key": {
-        "i": {
+        "R": {
             "item": "andhillcraft:reddiamond_ingot"
+        },
+        "S": {
+            "item": "minecraft:stick"
         }
     },
     "result": {
-        "item": "andhillcraft:reddiamond_block",
+        "item": "andhillcraft:reddiamond_spade",
         "count": 1
     }
 }

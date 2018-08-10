@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "andhillcraft:redcoal_block"
+        }
+    ],
+    "result": {
+        "item": "andhillcraft:redcoal",
+        "count": 9
+    }
+}

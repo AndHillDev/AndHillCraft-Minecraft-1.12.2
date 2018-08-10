@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "###",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "item": "andhillcraft:redcoal"
+        }
+    },
+    "result": {
+        "item": "andhillcraft:redcoal_block",
+        "count": 1
+    }
+}

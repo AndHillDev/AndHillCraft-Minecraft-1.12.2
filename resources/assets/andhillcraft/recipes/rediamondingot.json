@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "andhillcraft:reddiamond_block"
+        }
+    ],
+    "result": {
+        "item": "andhillcraft:reddiamond_ingot",
+        "count": 9
+    }
+}
